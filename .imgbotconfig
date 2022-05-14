@@ -1,5 +1,5 @@
 {
-    "schedule": "daily", // daily|weekly|monthly
+    "schedule": "monthly", // daily|weekly|monthly
     "ignoredFiles": [
         "*.rst",                   // ignore by extension
         "image1.png",              // ignore by filename
